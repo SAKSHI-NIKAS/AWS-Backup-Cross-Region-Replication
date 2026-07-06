@@ -1,4 +1,8 @@
-# AWS Backup Cross-Region Replication for EC2
+# AWS Backup Cross-Region Replication
+
+## 📄 Project Report
+
+- [Summary Report](./Summary-Report.pdf)# AWS Backup Cross-Region Replication for EC2
 
 ## Overview
 
